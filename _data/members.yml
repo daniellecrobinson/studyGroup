@@ -1,7 +1,9 @@
-- name: BLahBlahBlah
-  degree: PhD, Molecular Genetics
-  github: example github
+- name: Robin Champieux
+  degree: MLIS
+  github: rchampieux
   interests:
-     - R
-     - Data Visualization
+     - Open Science
+     - Open Data
+     - Libraries
+     - Scientific Communication
 
