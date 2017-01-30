@@ -80,3 +80,13 @@
      - python
      - R
      - outdoors stuff
+
+- name: Kylie McPherson
+  degree: PhD, Neuroscience
+  github: kyliemcpherson
+  interests:
+     - MATLAB
+     - Python
+     - Data Science
+     - Data Visualization 
+     
