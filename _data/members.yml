@@ -62,7 +62,7 @@
      - R
      - Data Visualization
      - Python
-     - MatLab 
+     - MatLab
 
 - name: Sam Papadakis
   degree: PhD student in NGP
@@ -88,5 +88,12 @@
      - MATLAB
      - Python
      - Data Science
-     - Data Visualization 
-     
+     - Data Visualization
+
+- name: Eric Leung
+  degree: PhD Student in Biomedical Informatics
+  github: erictleung
+  interests:
+     - R/Python/JS
+     - Machine learning
+     - Data management
